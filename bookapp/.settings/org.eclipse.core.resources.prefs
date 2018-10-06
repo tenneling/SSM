@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/org/fkit/controller/BookController.java=UTF-8
+encoding//src/org/fkit/controller/FormController.java=UTF-8
+encoding//src/org/fkit/controller/UserController.java=UTF-8
+encoding//src/org/fkit/domain/Book.java=UTF-8
+encoding//src/org/fkit/domain/User.java=UTF-8
+encoding//src/org/fkit/mapper/BookMapper.java=UTF-8
+encoding//src/org/fkit/mapper/UserMapper.java=UTF-8
+encoding//src/org/fkit/service/BookService.java=UTF-8
+encoding//src/org/fkit/service/UserService.java=UTF-8
+encoding//src/org/fkit/service/impl/BookServiceImpl.java=UTF-8
+encoding//src/org/fkit/service/impl/UserServiceImpl.java=UTF-8
